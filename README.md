@@ -28,13 +28,13 @@ JavaScript | TypeScript  | React | Next.js | HTML | CSS
 
 🗣️ Languages
 
-• [English] – upper-intermediate
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 
-• [Polish] – advanced
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-• [Ukrainian] – native
+![Polish](https://img.shields.io/badge/Polish-C1-lightgrey?style=flat-square)
 
 
 📫 How to reach me:  
 
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hannamuzychuk/)) | [Telegram](https://t.me/Hanna_Muzychuk) | [Email](hannamuzychuk@gmail.com)
+[LinkedIn]((https://www.linkedin.com/in/hannamuzychuk/) | [Telegram](https://t.me/Hanna_Muzychuk) | [Email](hannamuzychuk@gmail.com)
