@@ -11,30 +11,22 @@ JavaScript | TypeScript  | React | Next.js | HTML | CSS
 
 💻Featured Projects  
 
-- [CoffeeJoy]
+- [CoffeeJoy](https://andriybb.github.io/project-CoffeeJoy/)
    • Type: Team Project | Role: Scrum Master
    • Technologies: HTML5, CSS3, Git
-   • Live Demo: https://andriybb.github.io/project-CoffeeJoy/
-   • GitHub: https://github.com/andriybb/project-CoffeeJoy
    • CoffeeJoy is a fully responsive landing page for a coffee brand, optimized for mobile, tablet, and desktop devices. Managed Trello, coordinated team, implemented "Experience" section.
   
-- [Lapolis]
+- [Lapolis](https://hannamuzychuk.github.io/Lapolis-JS-project/)
    • Type: Team Project | Role: Team Lead 
    • Technologies: HTML5, CSS3, JavaScript, REST API, Axios, GitHub
-   •Live Demo: https://hannamuzychuk.github.io/Lapolis-JS-project/
-   •GitHub: https://github.com/hannamuzychuk/Lapolis-JS-project
    •Lapolis is a responsive web application for searching and adopting pets, allowing users to browse and filter animals available for adoption. Managed GitHub repo, code review, implemenrted "Footer" section and debugging support.
 
 
 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
-
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
-![Polish](https://img.shields.io/badge/Polish-C1-lightgrey?style=flat-square)
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)   ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)   ![Polish](https://img.shields.io/badge/Polish-C1-lightgrey?style=flat-square)
 
 
 📫 How to reach me:  
 
-[LinkedIn]((https://www.linkedin.com/in/hannamuzychuk/) | [Telegram](https://t.me/Hanna_Muzychuk) | [Email](hannamuzychuk@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hannamuzychuk/) | [Telegram](https://t.me/Hanna_Muzychuk) | [Email](hannamuzychuk@gmail.com)
