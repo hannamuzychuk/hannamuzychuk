@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi, I'm Hanna Muzychuk
 
-<!--
-**hannamuzychuk/hannamuzychuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer 🔹 React.js 🔹 TypeScript 🔹 JavaScript 🔹 HTML5 🔹 CSS
 
-Here are some ideas to get you started:
+Junior Frontend Developer with experience in HTML5, CSS3, JavaScript, TypeScript, and React. Skilled in building responsive, user-friendly web applications and integrating REST APIs. Familiar with Agile/Scrum, Git workflow, and code review. Motivated to continuously improve technical skills and deliver high-quality digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack  
+
+JavaScript | TypeScript  | React | Next.js | HTML | CSS
+
+
+💻Featured Projects  
+
+- [CoffeeJoy]
+   • Type: Team Project | Role: Scrum Master
+   • Technologies: HTML5, CSS3, Git
+   • Live Demo: https://andriybb.github.io/project-CoffeeJoy/
+   • GitHub: https://github.com/andriybb/project-CoffeeJoy
+   • CoffeeJoy is a fully responsive landing page for a coffee brand, optimized for mobile, tablet, and desktop devices. Managed Trello, coordinated team, implemented "Experience" section.
+  
+- [Lapolis]
+   • Type: Team Project | Role: Team Lead 
+   • Technologies: HTML5, CSS3, JavaScript, REST API, Axios, GitHub
+   •Live Demo: https://hannamuzychuk.github.io/Lapolis-JS-project/
+   •GitHub: https://github.com/hannamuzychuk/Lapolis-JS-project
+   •Lapolis is a responsive web application for searching and adopting pets, allowing users to browse and filter animals available for adoption. Managed GitHub repo, code review, implemenrted "Footer" section and debugging support.
+
+
+🗣️ Languages
+
+• [English] – upper-intermediate
+
+• [Polish] – advanced
+
+• [Ukrainian] – native
+
+
+📫 How to reach me:  
+
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hannamuzychuk/)) | [Telegram](https://t.me/Hanna_Muzychuk) | [Email](hannamuzychuk@gmail.com)
